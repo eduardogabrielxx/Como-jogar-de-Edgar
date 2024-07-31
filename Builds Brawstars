@@ -1,0 +1,27 @@
+<!DOCKTYPE html
+<html lang="pt-BR>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-cuidth, initial-scale=1,0">
+
+<title>    </title>
+<style>
+body{
+font-family:Arial,sans-Seril;
+margin 0;
+padding 0;
+}
+header}
+ background-color:#4CAF50
+   color:black;
+   padding:20px;>
+text-aling:center;
+}
+nav{
+  magin;0,15px;
+color;black;
+text-decoration:name;
+font-wheigth;bald;
+}
+nav a; haver{
